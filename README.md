@@ -1,7 +1,7 @@
 # App de perguntas e respostas
 ## Quiz
 ### O projeto consiste em um jogo de perguntas e respostas programadas
-##Sobre
+## Sobre
  * Desenvolvido no arquivo empty activity;
  * Desenvolvido na linguagem Kotlin;
    
